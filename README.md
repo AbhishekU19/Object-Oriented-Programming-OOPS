@@ -1,5 +1,4 @@
 # Object-Oriented-Programming-OOPS
-# Object-Oriented Programming (OOP) Projects
 
 Welcome to my Object-Oriented Programming (OOP) repository! This repository contains a collection of projects and code examples showcasing the core principles and pillars of OOP.
 
